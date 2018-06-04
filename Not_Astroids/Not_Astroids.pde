@@ -1,13 +1,11 @@
 
 
 //background graphic
-void setup(){
+void setup() {
 
 
 
   background(51);
-  size(1920,1080);
+  size(1920, 1080);
   noCursor();
-
-
-  }
+}
